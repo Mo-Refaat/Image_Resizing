@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image Resizing Project
 
 This project demonstrates various image upsampling and downsampling techniques using OpenCV and Python. It includes both built-in OpenCV methods and a custom implementation for pixel replication upsampling.
@@ -34,7 +33,3 @@ pip install -r requirements.txt
 
 ## License
 This project is for educational purposes.
-=======
-# Image_Resizing
-This project demonstrates various image upsampling and downsampling techniques using OpenCV and Python. It includes both built-in OpenCV methods and a custom implementation for pixel replication upsampling.
->>>>>>> 2ba5f32c8d207a9ab4ce99e3ce6766b7d9e7a5af
